@@ -1,5 +1,5 @@
-<<<<<<< HEAD
+
 it shows enable to access when try to pull from github
-=======
+
 check this is working in offline
->>>>>>> 341b2fc52f9ab96b065911d812c770a7322bc774
+
