@@ -3,3 +3,7 @@ git add //recent change file add
 git commit -m " " //commit the changes
 git push origin "  "
 
+cd ..       //go back to parent directory
+cd ../..    //go back two levels
+cd ~       // go to home folder
+
