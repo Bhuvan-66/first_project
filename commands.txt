@@ -1,0 +1,23 @@
+from starting:
+ after the install of git 
+ open cmd
+ 1. git config --global user.name "  "
+ 2. git config --global user.email "  "
+
+ then open vsc:
+ 1.first folder create in desktop.
+ 2.vsc file-open folder
+
+ git to vsc commands:
+ open terminal -- git clone link paste of origin
+ origin -- in repository (code) click link.
+ cd to move folder
+
+
+basic commands:
+1.git add filename
+2.git status
+3.git add .
+4.git commit -m " "
+5.git push origin
+6.git push origin (main--branch name)
