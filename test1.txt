@@ -1,1 +1,5 @@
-two
+git add . //add all changed files
+git add //recent change file add
+git commit -m " " //commit the changes
+git push origin "  "
+
