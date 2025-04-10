@@ -8,7 +8,8 @@ from starting:
  1.first folder create in desktop.
  2.vsc file-open folder
 
- git to vsc commands:
+ git to vsc commands: to open the repository in vsc
+ 
  open terminal -- git clone link paste of origin
  origin -- in repository (code) click link.
  cd to move folder
@@ -21,3 +22,39 @@ basic commands:
 4.git commit -m " "
 5.git push origin
 6.git push origin (main--branch name)
+7.git pull // it pull from git to vsc
+8.git init //create git file
+9.git remote add origin "link paste"
+10.git branch  //shows branch 
+11.git branch -M "branch name"  //to change the branch name
+12.git branch -a  // show all branch in repository
+13.git checkout "branchname" or git switch "branch name" // switch to another branch
+14.git diff "branchname"  // show the difference
+15.git merge "branchname" //current branch to merge another branch
+16.stuck terminal press q
+17.git branch "branchname"  //to create a new branch
+18.
+
+
+what is mean by pull request(all process in github): when your work in project you can't able to access main branch  for merge you to give pull request
+1.click a pull request
+2.new pull request
+3.compare -- which branchname
+4.create pull request.
+
+conflicts:(same file is changed by same time but different person)
+
+
+
+
+create a repo in vsc to display in github as a repository
+1.create a folder
+2.to create .git folder use command git init
+3.while push to git it show error how to solve first create a repository in same name 
+connect the two repository 
+git remote add origin " link-- in github "
+4.git branch -- it shows master 
+5.git push origin main --- it shows error to fix use git push origin master or change branch name
+6.git branch -M main
+
+
